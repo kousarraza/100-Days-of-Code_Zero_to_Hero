@@ -4,5 +4,5 @@
 b=int(input("Enter Base ")) #base
 h=int(input("Enter Height ")) #height
 
-A=(1/2)* b*h #Area of a Triangle, A = 1/2 × b × h
+A= 0.5* b*h #Area of a Triangle, A = 1/2 × b × h
 print("Area of a triangle ", A)
