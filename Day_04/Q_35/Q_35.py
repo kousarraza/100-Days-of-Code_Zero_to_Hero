@@ -1,4 +1,4 @@
-#  35.	Write a Python program to convert mintues  into clock.
+#  35.	Write a Python program to convert mintues  into hours.
 
 mint=int(input("Enter number of Mintues "))
 
