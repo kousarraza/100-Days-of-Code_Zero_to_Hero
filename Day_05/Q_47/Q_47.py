@@ -1,4 +1,4 @@
-# 47. 8.	Write a Python program to convert specified days into years,months, weeks and days.
+# 47. 	Write a Python program to convert specified days into years,months, weeks and days.
 
 days=int(input("Enter number of days: "))
 years=days//365
