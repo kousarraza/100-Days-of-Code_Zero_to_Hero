@@ -10,8 +10,13 @@ for i in range(50):
     print(L.append(randint(1,100)))
 
  """
+
+
 import random
 
-# Generate 10 random numbers between 1 and 100 (inclusive)
+randomlist = []
 for _ in range(10):
-  print(random.randint(1, 100))
+    n = random.randint(1, 100)
+    randomlist.append(n)
+
+print(randomlist)

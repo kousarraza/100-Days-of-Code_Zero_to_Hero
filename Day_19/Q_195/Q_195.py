@@ -5,3 +5,5 @@ values = [3,4,5,6,7]
 a = sum(values)
 b = len(values)
 print(calculate_average(a,b))
+
+
