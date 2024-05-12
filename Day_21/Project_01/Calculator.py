@@ -1,3 +1,4 @@
+# Calculator
 
 # Chose a option 
 operation = input('''
@@ -28,14 +29,14 @@ elif operation == '3':
 
 elif operation == '4':
     print('{} / {} = '.format(number_1, number_2),(number_1 / number_2))
-elif operation == '5:
-    if num2 == 0:
+elif operation == '5':
+    if number_2 == 0:
         print("Error! Division by zero is not allowed.")
     else:
         print('{} // {} = '.format(number_1, number_2),(number_1 // number_2))
 
-elif operation == '6:
-    if num2 == 0:
+elif operation == '6':
+    if number_2 == 0:
         print("Error! Modulus by zero is not allowed.")
     else:
         print('{} % {} = '.format(number_1, number_2),(number_1 % number_2))
