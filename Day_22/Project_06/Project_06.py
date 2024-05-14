@@ -5,7 +5,8 @@ def generate_question():
     num2 = random.randint(1, 10)
     return num1, num2
 
-print("Welcome to the Multiplication Game!")
+print("Welcome to the Multiplication Game!\n")
+
 correct_answers = 0
 #game loop
 for i in range(1,11):
@@ -13,7 +14,7 @@ for i in range(1,11):
     num1, num2 = generate_question()
     # Ask the question
     answer = int(input(f"Question {i}: {num1} * {num2} = "))
-    
+
   #  check the answer
     if answer == num1 * num2:
          print("Correct!")
