@@ -72,5 +72,5 @@ Please note that everyone involved in this project is either trying to learn or 
 # ✍️ Random Day Quote
 
 <h1 align="center">
-    "Programming is a process of discovery, not creation."
+    "Programs must be written for people to read, and only incidentally for machines to execute."
 </h1>
