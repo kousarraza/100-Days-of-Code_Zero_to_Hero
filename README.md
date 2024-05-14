@@ -34,6 +34,7 @@ real-world coding-related problems with Python. Even after these collected probl
 * **[Day 19:](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero/tree/master/Day_19)**- ***Question 186-195***
 * **[Day 20:](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero/tree/master/Day_20)**- ***Project 01-02***
 * **[Day 21:](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero/tree/master/Day_21)**- ***Project 03-04***
+* **[Day 22:](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero/tree/master/Day_22)**- ***Project 05-06***
 ----------------------------------------------
 
 # Need Help?
